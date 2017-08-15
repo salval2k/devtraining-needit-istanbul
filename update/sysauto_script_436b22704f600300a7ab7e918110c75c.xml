@@ -38,7 +38,7 @@
         <sys_class_name>sysauto_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-10 19:34:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>436b22704f600300a7ab7e918110c75c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Find and Close Long Overdue NeedIt Tasks</sys_name>
