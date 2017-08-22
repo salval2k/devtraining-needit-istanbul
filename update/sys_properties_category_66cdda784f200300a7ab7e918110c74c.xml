@@ -5,7 +5,7 @@
         <sys_class_name>sys_properties_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-10 18:15:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>66cdda784f200300a7ab7e918110c74c</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>NeedIt Properties</sys_name>
