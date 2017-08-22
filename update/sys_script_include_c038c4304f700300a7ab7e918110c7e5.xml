@@ -22,7 +22,7 @@
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-22 17:34:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c038c4304f700300a7ab7e918110c7e5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>validateEmailAddress</sys_name>
